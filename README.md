@@ -1,3 +1,5 @@
+<img src=https://github.com/varunsonavni/varunsonavni/raw/output/github-contribution-grid-snake.svg alt="Contrib Snake" />
+  </div>
 ### I'm Varun, an Cloud DevOps Magician 👨‍💻 I fiddle with technology for fun and profits 🚀
 
 <!--
